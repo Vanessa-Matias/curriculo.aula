@@ -1,18 +1,24 @@
 # Currículo Online - Atividade Prática
-Projeto desenvolvido como atividade prática de HTML e CSS, aplicando conhecimentos prévios em:
 
-- Estrutura semântica HTML5
-- Navegação entre páginas com iframes
-- Estilização básica com CSS
-- Organização de arquivos
+Projeto desenvolvido como atividade prática de HTML puro, aplicando:
+
+- Estrutura semântica básica
+- Navegação entre seções com iframes
+- Organização em arquivos separados
 
 ## 🛠 Tecnologias Utilizadas
-- HTML5 (iframe, nav, semântica)
-- CSS (estilos básicos)
-- GitHub Pages (opcional para deploy)
-
+- **HTML puro** (sem CSS ou JavaScript)
+  - Tags: `iframe`, `table`, `nav`, `center`
+  - Atributos: `valign`, `align`, `border`
+    
 ## ✨ Recursos Implementados
-- Navegação por abas usando iframe
-- Foto de perfil com borda circular
-- Links para redes sociais com badges
-- Layout responsivo básico
+- Navegação por seções usando `iframe`
+- Foto de perfil com nome abaixo
+- Links para redes sociais (sem estilização)
+- Layout baseado em tabelas HTML
+- Conteúdo dividido em arquivos:
+  - `componentes/sobre.html`
+  - `componentes/formacao.html`
+  - `componentes/experiencia.html`
+  - `componentes/habilidades.html`
+  - `componentes/hobbies.html`
